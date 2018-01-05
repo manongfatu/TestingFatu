@@ -1,2 +1,3 @@
 # TestingFatu
-Practicing Git
+I am practicing how to use Git
+
